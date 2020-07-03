@@ -5,7 +5,6 @@ int arrangeCoins(int n){
         return 0;
     }
     int count=1;
-    int rem=n;
     while(n>0)
     {
      n=n-count;
