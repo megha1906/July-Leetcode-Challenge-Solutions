@@ -7,7 +7,7 @@ This repository contains the solution of the everyday challenge in C or C++. The
 Keep coding!
 
 
-QUESTION LINKS:
+<b>QUESTION LINKS:</b>
 
 1)Arranging coins : https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/
 
