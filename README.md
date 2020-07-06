@@ -19,3 +19,5 @@ Keep coding!
 
 5)Hamming Distance : https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3381/
 
+6)Plus one : https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/
+
