@@ -21,5 +21,4 @@ Keep coding!
 
 6)Plus one : https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/
 
-7)Island Perimeter : https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/
 
